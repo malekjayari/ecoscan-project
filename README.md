@@ -14,6 +14,6 @@ EcoScan is a web application that helps users make environmentally responsible c
 ---
 
 ## Technologies:
-- PHP / Laravel (or whatever she uses)
+- PHP / Laravel
 - MySQL (phpMyAdmin)
 - HTML/CSS/JS
